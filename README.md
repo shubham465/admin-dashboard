@@ -9,7 +9,7 @@ Below are the steps to copy and run the project :
 2. npm install ( Go inside ziaat folder and do the following command )
 3. npm start ( start the project )
 
-Open the project https://localhost:3000 in CHROME ( RECOMMENDED ).
+Open the project [Check it out](https://admin-dashboard-ten-lilac-17.vercel.app/) in CHROME ( RECOMMENDED ).
 
 # Essential information of the project ( Limitations of the project )
 
